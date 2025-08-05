@@ -42,6 +42,7 @@ Positions and velocities are all signed integers, and the paddle movement is con
 
 ### VGAController
 ![VGA Timing Standard](https://github.com/DanKim15/Verilog-Pong/blob/main/vga_timing_standard.png)
+
 The `VGAController` module handles video timing and pixel generation for a standard 640×480\@60 Hz VGA display, following this VGA timing standard:
 
 1. **Pixel clock generation**: Divides the 50 MHz input clock by 2 to create a 25 MHz pixel clock.
