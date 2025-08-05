@@ -61,10 +61,3 @@ The `VGAController` module handles video timing and pixel generation for a stand
 ## State Machine Diagram
 ![State Machine Diagram](https://github.com/DanKim15/Verilog-Pong/blob/main/state_machine_diagram.jpg)
 
-
----
-
-## License
-
-Distributed under the MIT License. See `LICENSE` for details.
-
